@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Karthik</h1>
+<h1 align="center">Hi 🤝, I'm Karthik</h1>
 <h3 align="center">Full-Stack Developer | React & Node.js Specialist</h3><?h4> Hi there! I'm Karthik, a passionate and skilled full-stack developer with a strong background in both front-end and back-end development. I specialize in creating dynamic, responsive web applications using modern technologies.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik-13-04&label=Profile%20views&color=0e75b6&style=flat" alt="karthik-13-04" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">karthikdannina07@gmail.com 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
